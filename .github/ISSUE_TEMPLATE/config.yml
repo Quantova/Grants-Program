@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Apply on the website
+    url: https://quantova.org/grants/
+    about: Submit a grant application through the Quantova website.
+  - name: Email the Grants team
+    url: mailto:Grants@quantova.org
+    about: For private or detailed questions, email Grants@quantova.org.
