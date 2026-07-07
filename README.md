@@ -48,7 +48,7 @@ particular focus on builders rather than end users. Priority domains:
 - **Core infrastructure** — node tooling, indexers, explorers, RPC/gateway
   infrastructure, monitoring, and reliability tooling.
 - **Developer tooling & SDKs** — libraries, frameworks, and integrations built on
-  qweb3.js / qweb3.py and the QVM.
+  Qweb4.js / Qweb4.py and the QVM.
 - **Quantova Virtual Machine (QVM)** — Solidity/QVM tooling, contract libraries,
   testing frameworks, and developer experience.
 - **Wallets & key management** — wallet integrations and post-quantum key-handling

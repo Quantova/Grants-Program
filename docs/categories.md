@@ -7,7 +7,7 @@ relation to Quantova is clear.
 
 ## Developer tooling & SDKs
 
-- Libraries, frameworks, and integrations built on qweb3.js / qweb3.py.
+- Libraries, frameworks, and integrations built on Qweb4.js / Qweb4.py.
 - Language bindings (Rust, Go, Java, Swift, Kotlin, etc.).
 - Testing frameworks, local dev environments, and CI tooling.
 - Indexers, block explorers, and data APIs.
